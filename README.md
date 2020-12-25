@@ -9,3 +9,10 @@ There task is considered as searching problem
 
 
 I was struck in the getting the 'imagenet2012' imagenet dataset which is around 1.5gb which is a quite high for basic learning. 
+
+
+
+here are some article to know about efficientnet
+
+https://www.tensorflow.org/datasets/catalog/imagenet2012
+https://analyticsindiamag.com/implementing-efficientnet-a-powerful-convolutional-neural-network/
